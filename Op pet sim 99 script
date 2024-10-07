@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StellarScripting/PS99/refs/heads/main/PS99.txt"))()
